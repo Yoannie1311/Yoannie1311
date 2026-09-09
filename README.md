@@ -66,4 +66,4 @@ https://github.com/Yoannie1311/chest-xray-pneumonia-detection
 
 ## 📫 Contact
 
-- LinkedIn [(https://www.linkedin.com/in/yoanakpetrova/)]
+- LinkedIn https://www.linkedin.com/in/yoanakpetrova/
